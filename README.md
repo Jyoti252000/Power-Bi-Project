@@ -39,3 +39,5 @@ Incorporate forecasting and predictive analytics.
 Connect to live data sources for real-time analysis.
 More Detailed information on each of the graphs.
 More pages with more details.
+
+I have also attached the datasets which will be needed for this project.
